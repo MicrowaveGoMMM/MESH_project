@@ -1,0 +1,98 @@
+2239fd3f-ae44-45c8-9d63-0864bf22d8ee:
+  cute_name: Banana
+  data:
+    slayers:
+      blaze:
+        coins_spent: 0
+        head: /head/b20657e24b56e1b2f8fc219da1de788c0c24f36388b1a409d0cd2d8dba44aa3b
+        kills:
+          total: 0
+        level:
+          currentLevel: 0
+          maxLevel: 9
+          progress: 0
+          unclaimed: false
+          xp: 0
+          xpForNext: 10
+        name: Inferno Demonlord
+      enderman:
+        coins_spent: 0
+        head: /head/1b09a3752510e914b0bdc9096b392bb359f7a8e8a9566a02e7f66faff8d6f89e
+        kills:
+          total: 0
+        level:
+          currentLevel: 0
+          maxLevel: 9
+          progress: 0
+          unclaimed: false
+          xp: 0
+          xpForNext: 10
+        name: Voidgloom Seraph
+      spider:
+        coins_spent: 509500
+        head: /head/9d7e3b19ac4f3dee9c5677c135333b9d35a7f568b63d1ef4ada4b068b5a25
+        kills:
+          '1': 1
+          '2': 1
+          '3': 5
+          '4': 8
+          total: 15
+        level:
+          currentLevel: 5
+          maxLevel: 9
+          progress: 0.27025
+          unclaimed: false
+          xp: 5405
+          xpForNext: 20000
+        name: Tarantula Broodfather
+      vampire:
+        coins_spent: 0
+        head: /head/5aa29ea961757dc3c90bfabf302c5abe9d308fb4a7d3864e5788ad2cc9160aa2
+        kills:
+          total: 0
+        level:
+          currentLevel: 0
+          maxLevel: 5
+          progress: 0
+          unclaimed: false
+          xp: 0
+          xpForNext: 20
+        name: Riftstalker Bloodfiend
+      wolf:
+        coins_spent: 1767000
+        head: /head/f83a2aa9d3734b919ac24c9659e5e0f86ecafbf64d4788cfa433bbec189e8
+        kills:
+          '1': 1
+          '2': 2
+          '3': 5
+          '4': 33
+          total: 41
+        level:
+          currentLevel: 5
+          maxLevel: 9
+          progress: 0.89025
+          unclaimed: false
+          xp: 17805
+          xpForNext: 20000
+        name: Sven Packmaster
+      zombie:
+        coins_spent: 643500
+        head: /head/1fc0184473fe882d2895ce7cbc8197bd40ff70bf10d3745de97b6c2a9c5fc78f
+        kills:
+          '1': 3
+          '2': 5
+          '3': 10
+          '4': 8
+          total: 26
+        level:
+          currentLevel: 5
+          maxLevel: 9
+          progress: 0.257
+          unclaimed: false
+          xp: 5140
+          xpForNext: 20000
+        name: Revenant Horror
+    total_coins_spent: 2920000
+    total_slayer_xp: 28350
+  profile_id: 2239fd3f-ae44-45c8-9d63-0864bf22d8ee
+  selected: true
